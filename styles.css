@@ -248,7 +248,6 @@ h1 {
   line-height: 1.45;
 }
 
-.hero-actions,
 .form-actions {
   display: flex;
   flex-wrap: wrap;
@@ -961,7 +960,6 @@ fieldset {
     font-size: 24px;
   }
 
-  .hero-actions,
   .primary-button,
   .secondary-button,
   .wide-button,
