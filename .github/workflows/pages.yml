@@ -23,7 +23,7 @@ jobs:
       - name: Prepare site
         run: |
           mkdir -p _site/assets
-          cp index.html styles.css app.js .nojekyll _site/
+          cp index.html styles.css app.js 404.html .nojekyll _site/
           cp assets/favicon.png _site/assets/
           cp assets/mailmag-image-201.png _site/assets/
           cp assets/mailmag-image-204.jpg _site/assets/
